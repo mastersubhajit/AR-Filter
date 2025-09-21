@@ -19,7 +19,7 @@ class LiveCameraEffects:
         self.cap = cv2.VideoCapture(0)
         if not self.cap.isOpened():
             raise IOError("Cannot open webcam")
-        self.window_name = "Live Camera Effects"
+        self.window_name = "AR-Filter"
         cv2.namedWindow(self.window_name, cv2.WINDOW_AUTOSIZE)
 
         # --- State Variables ---
