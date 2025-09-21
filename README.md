@@ -30,28 +30,6 @@ All running at webcam speed, built on OpenCV and NumPy.
 
 ---
 
-## 🚀 Why This Will Go Viral
-
-✅ **It Just Works**  
-Clone → Install → Run. No config, no fuss.
-
-✅ **Looks Like Sci-Fi**  
-When you project a 3D dinosaur onto a printed marker, people *lean in*. Colleagues stop by. Students ask questions.
-
-✅ **Perfect for Content Creators**  
-Ideal for YouTube tutorials, TikTok demos, Twitter/X tech threads, or LinkedIn posts about AI/ML/CV.
-
-✅ **Teaches Without Trying**  
-You’ll learn homography, pose estimation, lens distortion, and image pyramids — just by playing.
-
-✅ **Hackable Foundation**  
-Add face filters, object tracking, or export videos — it’s open, clean, and well-structured.
-
-✅ **GitHub Gold**  
-Has everything trending repos have: visual impact, educational value, and instant gratification.
-
----
-
 ## 💻 Try It in 60 Seconds
 
 ### Step 1: Install
