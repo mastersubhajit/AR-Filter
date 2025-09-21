@@ -83,7 +83,7 @@ Below is a summary of all available keyboard commands:
 | `f` | Bilateral filter | Filter | Edge-preserving smoothing |
 | `e` | Canny edge detection | Edge | Shows detected edges in real time |
 | `l` | Hough line detection | Edge | Detects and draws straight lines |
-| `r` | Rotate 90° | Transform | Cycles rotation: 0° → 90° → 180° → 270° |
+| `r` | Rotate 90° | Rotate | Cycles rotation: 0° → 90° → 180° → 270° |
 | `[` | Zoom In | Transform | Gradually increases zoom level |
 | `]` | Zoom Out | Transform | Gradually decreases zoom level |
 | `c` | Increase Contrast | Adjust | Boosts contrast by 0.1 increments |
