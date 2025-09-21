@@ -2,7 +2,7 @@
 ## 🎬 Demo
 
 Watch the AR filter in action — real-time augmented reality, camera effects, and panorama stitching:
-[![AR-Filter Demo](demo.gif)]
+![AR-Filter Demo](https://github.com/mastersubhajit/AR-Filter/blob/master/assets/demo.gif)
 
 > **Turn your webcam into a lab for computer vision magic — no PhD required.**
 
