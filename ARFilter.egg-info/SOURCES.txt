@@ -1,0 +1,6 @@
+pyproject.toml
+ARFilter.egg-info/PKG-INFO
+ARFilter.egg-info/SOURCES.txt
+ARFilter.egg-info/dependency_links.txt
+ARFilter.egg-info/requires.txt
+ARFilter.egg-info/top_level.txt

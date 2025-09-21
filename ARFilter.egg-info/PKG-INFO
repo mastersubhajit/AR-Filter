@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: ARFilter
+Version: 0.1.0
+Summary: AR Camera for Computer Vision
+Requires-Python: >=3.11
+Requires-Dist: dash>=3.2.0
+Requires-Dist: dash-bootstrap-components>=2.0.4
+Requires-Dist: flask>=3.1.2
+Requires-Dist: gunicorn>=23.0.0
+Requires-Dist: ipykernel>=6.30.1
+Requires-Dist: matplotlib>=3.10.6
+Requires-Dist: numpy>=2.3.3
+Requires-Dist: opencv-python>=4.11.0.86
+Requires-Dist: pandas>=2.3.2
+Requires-Dist: pillow>=11.3.0
+Requires-Dist: plotly>=6.3.0
+Requires-Dist: scikit-learn>=1.7.2
+Requires-Dist: torch>=2.8.0
+Requires-Dist: torchvision>=0.23.0
+Requires-Dist: waitress>=3.0.2

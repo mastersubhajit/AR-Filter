@@ -1,0 +1,17 @@
+﻿Key,Function
+0", "1", "2,"Raw, Grayscale, HSV"
+g", "f,Gaussian / Bilateral Filter
+e", "l,Canny Edges / Hough Lines
+a,Augmented Reality (3D Model on Marker)
+k,Start Camera Calibration
+u,View Undistorted Feed
+h,Show Histogram
+r,Rotate 90° (cycles 0° → 90° → 180° → 270°)
+[ / ],Zoom In / Out
+c/v", "b/n,Adjust Contrast / Brightness
++ / -,Adjust Gaussian Kernel Size
+d/D", "m/M", "x/X,Tune Bilateral Filter Parameters
+o,Capture Frame for Panorama
+p,Stitch All Captured Frames
+z,Reset Everything
+?,Toggle Help Panel

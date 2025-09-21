@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  arfilter:
+    build: .
+    container_name: arfilter_container
+    platform: linux/amd64
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/home/ubuntu/app
+    entrypoint: ""
+    command: sleep infinity # Keep the container running--workspace-folder /Users/mastersubhajitghosh/Downloads/Computer_Vision/ARFilter
