@@ -98,7 +98,7 @@ Below is a summary of all available keyboard commands:
 | `h` | Histogram View | Analysis | Shows real-time intensity distribution |
 | `z` | Reset All Settings | All | Resets all parameters to defaults |
 | `?` | Toggle Help | UI | Shows or hides sidebar help panel |
-| `q` | Quit | All | Destroys the window |
+| `q` | Quit | Exit | Destroys the window |
 
 
 **Note: For resources like Chessboard image, ArUco Marker, please visit assets folder**
